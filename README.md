@@ -3,7 +3,7 @@
 - 🔐 &nbsp; Working as a **Degree Apprentice - Software Engineer**.
 - 🤖 &nbsp; Passionate about **distributed services, containerisation and architecture**.
 - 🎓 &nbsp; Studying **Digital Technology Solutions (SE)** at <a href="https://www.mmu.ac.uk/study/apprenticeships/courses/digital-technology-solutions">Manchester Metropolitan University</a>.
-- 📚 &nbsp; Constantly learning more about **DevOps**, **cloud**, and **databases**.
+- 📚 &nbsp; Constantly learning more about **DevOps**, **AI**, and **RDBMS**.
 
 <h2> :rocket: &nbsp;My Skills </h3>
 
@@ -14,17 +14,18 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  <br>
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
   ![OpenShift](https://img.shields.io/badge/-RedHat%20OpenShift-333333?style=flat&logo=redhatopenshift)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-  ![OracleDB](https://img.shields.io/badge/-OracleDB-333333?style=flat&logo=oracle)
+  ![OracleDB](https://img.shields.io/badge/-Oracle%20Database-333333?style=flat&logo=oracle)
 
 **DevOps**
 
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
   ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
+  ![SonarQube](https://img.shields.io/badge/-SonarQube-333333?style=flat&logo=sonarqubecloud)
 
 **Development Tools**
 
